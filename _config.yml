@@ -9,10 +9,10 @@ default_lang: en
 default_body_class: list
 
 author:
-    name: Yours Truly
+    name: Adán Lobato
     # url:  http://example.com/
-    company:
-        name: Famous Inc.
+    # company:
+        # name: Famous Inc.
         # url:  http://example.com/
 
 fork_url: https://github.com/shower/shower
